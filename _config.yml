@@ -29,14 +29,14 @@ instagram_username: gratacosgustavo
 github_username:  Gratacos
 
 # Build settings
-theme: minima
+# theme: minima
 # theme: Slate
 plugins:
   - jekyll-feed
 
-# remote_theme: pages-themes/slate@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
