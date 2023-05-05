@@ -29,7 +29,8 @@ instagram_username: gratacosgustavo
 github_username:  Gratacos
 
 # Build settings
-theme: minima
+# theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
