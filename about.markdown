@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Foto](/assets/photo.jpeg)
+
 I am a PhD candidate at Washington University in St Louis, where I am studying computational geometry under the mentorship of [Professor Tao Ju](https://www.cs.wustl.edu/~taoju/). My interests lie on constructing novel algorithms with applications graphics, geometry, and imaging. My CV can be found [here][1].
 
 [1]:{{ site.url }}/download/gustavogratacos_cv.pdf
