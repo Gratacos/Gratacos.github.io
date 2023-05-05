@@ -30,7 +30,7 @@ github_username:  Gratacos
 
 # Build settings
 # theme: minima
-# theme: Slate
+theme: Slate
 plugins:
   - jekyll-feed
 
