@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD candidate at Washington University in St Louis, where I am studying computational geometry under the mentorship of [Professor Tao Ju](https://www.cs.wustl.edu/~taoju/). My interests lie on constructing novel algorithms with applications graphics, geometry, and imaging. 
+I am a PhD candidate at Washington University in St Louis, where I am studying computational geometry under the mentorship of [Professor Tao Ju](https://www.cs.wustl.edu/~taoju/). My interests lie on constructing novel algorithms with applications graphics, geometry, and imaging. My CV can be found [here][1].
+
+[1]:{{ site.url }}/download/gustavogratacos_cv.pdf
 
 I was born and raised in Puerto Rico, where I studied in the University of Puerto Rico, Río Piedras Campus. From my love of its urban music, wildlife and nature, to my interest in Computer Science, this island has defined and made me the person I am today.
 
