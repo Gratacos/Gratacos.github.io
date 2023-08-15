@@ -10,6 +10,8 @@ There are many tree-like objects in nature: retinal blood vessels, plant roots, 
 
 We propose a dynamic programming algorithm for solving the NP-hard tree-recovery problem for retrieving an acyclic skeleton from these cyclic graphs. This work is published in [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/document/10197214). 
 
+---
+
 # Plant Segmentation with Graph Cuts 
 
 ![Foto](/assets/plant-segmentation.gif){: width="500" }
