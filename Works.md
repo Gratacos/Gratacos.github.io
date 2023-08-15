@@ -1,3 +1,7 @@
+---
+title: Works
+---
+
 # Tree Recovery by Dynamic Programming
 
 ![Foto](/assets/tree-recovery.png){: width="500" }
