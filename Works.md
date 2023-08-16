@@ -45,6 +45,7 @@ I worked on denoising images using _Patch-wise Sparse Learning_ for the Computat
 In 2017, I participated in an undergraduate summer research experience at Marquette University under the mentorship of [Professor Dennis Brylow](https://reu.cs.mu.edu/index.php/User:Brylow). For this project, we worked on _MUzECS_, an educational platform that includes:
  * A circuit board that can make music.
  * An easy to use, visual, block-based programming language for this circuit board. 
+
 The aim of this project was to get this platform to work with [adafruit’s](https://www.adafruit.com/) Circuit Playground board in a way to maximize ease of use, while teaching students the fundamentals of programming. 
 
 The projects page can be found [here](https://reu.cs.mu.edu/index.php/Advancing_via_MUzECS_Platform).
