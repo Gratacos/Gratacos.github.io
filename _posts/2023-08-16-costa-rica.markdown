@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trip to Costa Rica"
-date:   2023-08-16 21:10:10 -0500
+date:   2023-08-16 10:10:00 -0500
 categories: jekyll update
 ---
 
