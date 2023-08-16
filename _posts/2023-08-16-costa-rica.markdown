@@ -18,7 +18,7 @@ Our first destination was San Gerardo de Dota: a small, cool, and cloudy town in
 
 ![Foto](/assets/paramo.gif){: width="1000" }
 
-The cabin itself had many species of recurring hummingbirds and woodpeckers and beautiful views of the milky way galaxy when the sky was clear. Our place was also near *Miriam’s Quetzals*, a beautiful restaurant with great Casados and delicious Papayas Chilenas! The restaurant has a back porch with beautiful views of the valley, a hummingbird feeder with more species of hummingbird than I’ve ever seen in my life, and a wild avocado tree which had some Resplendent Quetzals that frequented it. 
+The area around the cabin had many species of recurring hummingbirds, woodpeckers and beautiful views of the milky way galaxy when the sky was clear. Our place was also near *Miriam’s Quetzals*, a beautiful restaurant with great Casados and delicious Papayas Chilenas! The restaurant has a back porch with beautiful views of the valley, a hummingbird feeder with more species of hummingbird than I’ve ever seen in my life, and a wild avocado tree which had some Resplendent Quetzals that frequented it. 
 
 ![Foto](/assets/cols-dota-compressed.jpg){: width="1000" }
 
@@ -48,12 +48,12 @@ Eventually we went to the Caribbean lowlands. The main goal for many herpers her
 
 ![Foto](/assets/manzanillo.jpg){: width="1000" }
 
-We opted for traversing these trails without tours. Nonetheless, trails of Cahuita National Forest and Gandoca-Manzanillo National Forest were filled with spooky-sounding Howler Monkeys, Capuchin Monkeys, Raccoons, Coatis, and other mammals that weren’t difficult to spot. Moreover, my sister was especially good at spotting inconspicuous sloths resting high up in the trees. 
+We opted for traversing these trails without tours. Nonetheless, trails of Cahuita National Forest and Gandoca-Manzanillo National Forest were filled with spooky-sounding Howler Monkeys, Capuchin Monkeys, Raccoons, Coatis, and other mammals that weren’t too difficult to spot. Moreover, my sister was especially good at spotting inconspicuous sloths resting high up in the trees. 
 
-As for herping, many trees were dotted with stunning yellow-headed geckos, and ground-lizards and basilisks ran across the trails. We also saw a beautiful Vine Snake and a Hognose Pit Viper. We didn’t see the revered Yellow-eyelash Viper until the last day here, it was surprisingly difficult to find for such a colorful snake. 
+As for herping, many trees were dotted with stunning yellow-headed geckos. Ground-lizards and basilisks ran across the trails as well. We also saw a beautiful Vine Snake and a Hognose Pit Viper. We didn’t see the revered Yellow-eyelash Viper until the last day here, it was surprisingly difficult to find for such a colorful snake. 
 
 ![Foto](/assets/cols-cahuita-compressed.jpg){: width="1000" }
 
 ---
 
-I’m writing this from Alajuela, getting ready to go back home tomorrow. All in all, I think this trip has been a success. I think I should go in similar adventures more often! 
+I’m writing this from Alajuela, getting ready to go back home tomorrow. All in all, I think this trip has been a success. I'm already looking forward to my next trip here! 

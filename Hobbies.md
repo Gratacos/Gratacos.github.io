@@ -21,3 +21,11 @@ I love wildlife and landscape photography. Wildlife conservation is very importa
 Above are some of my photos of 8 of the 14 extant species of Puerto Rican _coquíes_. I hope to one day see all of them. Unfortunately, due to the critically endangered status of many of them, that may not be possible. 
 
 Make sure to follow me on instagram at at [gratacosgustavo](https://www.instagram.com/gratacosgustavo/) for more of these photos! 
+
+# Music
+
+I’ve always loved playing piano but have never been very consistent at it. In fact, last time playing in public was my high school graduation!
+
+More recently, I’ve enjoyed making electronic music via synthesis. The whole process, from designing drum, bass, and lead sounds, to recording the music with my keyboard and listening to the result, is extremely relaxing and therapeutic. 
+
+I make music for my own enjoyment and am not confident enough to publish any of it, but feel free to talk to me about anything music-related! :-) 

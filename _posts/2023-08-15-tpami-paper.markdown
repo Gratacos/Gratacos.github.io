@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our Paper has been accepted to TPAMI!"
+title:  "Our paper has been accepted to TPAMI!"
 date:   2023-08-15 21:10:10 -0500
 categories: jekyll update
 ---
