@@ -16,7 +16,7 @@ Above you can see me and my dad at "pico el toro." The tallest point of El Yunqu
 
 I love wildlife and landscape photography. Wildlife conservation is very important to me. Moreover, the hobby is fun. Photographing rare animals and good views of nature is challenging and rewarding, and it provides a means for me to document the trips and adventures I go on. It almost reminds me of playing “pokemon snap” as a kid!
 
-![Foto](/assets/coquies-col.png){: width="1000" }
+![Foto](/assets/cols-coquies-compressed.jpg){: width="1000" }
 
 Above are some of my photos of 8 of the 14 extant species of Puerto Rican _coquíes_. I hope to one day see all of them. Unfortunately, due to the critically endangered status of many of them, that may not be possible. 
 
