@@ -4,7 +4,7 @@ title: Hobbies
 
 # Hiking 
 
-I’m an avid hiker. Even though I’m currently car-less in St. Louis, I always take the opportunity to hike with friends or in my vacations. There is something about being away from society while remaining energized in a calm, but serene environment that is unparalleled by any other activity. Not to mention that it provides ample opportunities to find wildlife and landscapes to photograph. 
+I’m an avid hiker and always take the opportunity to hike with friends or in my vacations. There is something about being away from society while remaining energized in a calm, but serene environment that is unparalleled by any other activity. Not to mention that it provides ample opportunities to find wildlife and landscapes to photograph. 
 
 ![Foto](/assets/el-toro.jpg){: width="1000" }
 
